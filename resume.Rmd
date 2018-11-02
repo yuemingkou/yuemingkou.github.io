@@ -3,3 +3,97 @@ title: "Resume"
 output: html_document
 ---
 
+Yueming Kou
+============
+
+-------------------   ----------------------------------
+
+Email:                          yk2826@cumc.columbia.edu
+
+Tel:                                          6464966814
+
+-------------------   ----------------------------------
+
+
+Education
+---------
+
+2018-2020 (expected)
+:   **MS, Biostatistics**; Columbia University in the City of Newyork
+
+    *Track: Theory and Methods*
+
+2014-2018
+:   **BS, Food Science and Engineering**; Jiangnan University 
+
+    *GPA: 3.76 / 4.00*
+    
+Professional knowledge
+----------------------
+
+Main courses
+:   Data Science, Biostatistical methods, Probability, Epidemiology
+
+**Programming language:**   R, Python, VB
+
+**Statistical software:**   SPSS
+
+Experience
+----------
+
+**Yellow River Shandong Bureau**
+
+Filled in and verified statistical tables of water conservancy project, water supply engineering, soil and water conservation as well as drainage of rivers and lakes through management information system.
+
+Academic Experience
+-------------------
+
+**Anti-inflammatory properties of potato extracts in stimulated Raw 264.7 mouse macrophages**
+
+**Advisor:** Prof. Haitao Li
+
+* Prepared potato extracts;
+* Cultured and sub-cultured RAW 264.7 cells in DMEM media supplemented with 10% FBS; 
+* Treated cells with specific concentrations of potato extracts for 2h then induced NO production and cytokines IL-6     production with LPS; measured NO production; measured the release of the cytokines IL-6;
+* Analyzed the data with SPSS using one-way ANOVA and the result showed that the potato extracts have inhibitory
+  effects on NO production and reduce cytokines IL-6 production;
+* Studied the optimal concentration of potato extracts by Western Blot analysis and the result showed that 0.1mg/ml
+  potato extracts had the best anti-inflammatory effects.
+
+**The Effect of Black Pepper on High-fat Diet-induced Obese Mice**
+
+**Advisor:** Prof. Haitao Li
+
+* Designed and performed animal experiments: maintained C57BL/6J mice (n = 40; 5-week-old); randomly divided the mice
+  into four groups of 10 animals as follows: normal diet, HFD, HFD in combination with black pepper or piperine for 13
+  weeks; measured body weight and food consumption three times per week throughout the study; calculated food
+  efficiency ratio(FER);
+* Performed an oral glucose tolerance test; assayed blood glucose using a glucose meter; 
+* Collected blood samples from each mouse and obtained plasma by centrifuging the blood; assayed plasma insulin and
+  adiponectin levels using a mouse-specific ELISA kit;
+* Removed and weighed the livers;
+* Analyzed data describing body weight gains, liver weights and plasma characteristics with SPSS using one-way ANOVA
+  and the result showed that black pepper reduces body and liver weights as well as improves glucose utilisation and
+  insulin sensitivity;
+* Coauthored Anti-obesity effect of black pepper on high-fat diet-induced obese mice. Under review by Journal of
+  Agricultural and Food Chemistry.
+
+Extracurricular Activities
+--------------------------
+
+* Took part in China Undergraduate Mathematical Contest in Modeling in 2016
+* Served as psychological committee member for caring about students’ mental health
+* Acted as an international class monitor of School of Food Science and Technology and also a volunteer for receiving
+  visiting scholars and exchange students
+  
+Awards and Interests
+--------------------------
+
+* **Jiangnan University** First-class Scholarship (Twice, ratio: 1/30)
+* Outstanding Winner of “YuanXiang Scholarship”: aiming at rewarding students who stand out in the study abroad,
+  overseas study tour, as well as academic study
+    * Bonus: 25000RMB/per year
+    * Ratio: selected two students among the whole school students
+* **Interests**
+    * Good at studying dietary recipe
+    * Be fond of playing the violin
